@@ -1,0 +1,38 @@
+@media only screen and (min-width: 1024px) {
+
+    //header
+
+    header {
+    
+        .wrapper {
+
+    
+            .siteHeader {
+                display: flex;
+                justify-content: space-between;
+                padding: 25px;
+        
+
+                .siteHamburger {
+                    display: none;
+                }
+
+                .siteNav {
+                    .siteNav__list {
+                        display: flex;
+                        .siteNav__listItem {
+                            margin-right: 10px;
+                        }
+                    }
+                }
+                
+            }
+        }    
+    }
+
+    //main
+
+}
+
+
+
